@@ -1,0 +1,78 @@
+﻿body {
+
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	background: white;
+	font-size: medium;
+	font-weight: bold;
+	line-height: 1.6em;
+}
+
+p{
+	font-size: 150%;
+}
+
+h1, h2 {
+	font-size: 130%;
+}
+
+h1 {
+
+}
+
+#garant{
+	color:				maroon;
+	font: 				normal small 20px/24px fantasy;
+	
+	background-color:		white;
+	border-color:			black;
+	border-width:			1px;
+	background-image:		url(law1.jpg);
+	background-repeat:		no-repeat;
+	background-position:	top left;
+	
+	padding:			10px;
+	padding-left:		120px;
+	margin:				0px 10px 10px 10px;
+	
+	border:				thin solid black;
+	border-radius: 		10px;
+}
+
+#Navigation{
+	background-color:	white;
+	border-color:		black;
+	border-width:		1px;
+	border:				4px double black;
+	padding:			10px;
+	float: 				right;
+
+}
+
+#amazing{
+	font-family:		"Times New Roman", Times, serif;
+	/*font-style:			italic;*/
+	background-color:	gray;
+	color:				red;
+	border-color:		black;
+	border-radius:		10px;
+    position: 			fixed; /* Фиксированное положение */
+    right: 				10px; /* Расстояние от правого края окна браузера */
+    top: 				5%; /* Расстояние сверху */
+    padding: 			10px; /* Поля вокруг текста */ 
+    background: 		#ffe; /* Цвет фона */ 
+    border: 			3px solid #333; /* Параметры рамки */ 
+}
+#osnov_text{
+	font: 				12pt sans-serif;
+	background: 		white;
+	font-size: 			medium;
+	line-height:		1.6 em;
+	
+	padding:			15px;
+	padding-right:		45%;
+	margin:				0px 10px 10px 10px;
+	
+	text-align:			justify;
+	text-indent: 		35px;
+}
+

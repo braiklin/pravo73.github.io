@@ -1,1 +1,1 @@
-# pravo73.github.io
+# pravo73
